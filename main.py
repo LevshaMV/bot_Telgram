@@ -1,4 +1,6 @@
-import t_2 as t
+import t_2
+import t_1
 a=10
 c=23
-print(t.suma (a, c))
+print(t_2.suma (a, c))
+print(t_1.raz (a, c))
