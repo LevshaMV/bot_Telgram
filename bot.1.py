@@ -1,5 +1,4 @@
-print('abv')
-print('zzz')
-def zov(x,w):
-    if x>0:
-        return 1
+import pr_1
+a=10
+c=34
+print(suma(a, c))
